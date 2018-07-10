@@ -1,0 +1,15 @@
+body {font-family: "Comic Sans MS", cursive, sans-serif;
+      background-color: lavenderblush}
+h1 {color: crimson;
+    font-size: 75px;
+    text-align: center;
+    border-top: 20px dotted crimson;
+    border-bottom: 20px dotted crimson}
+h2 {font-size: 30px}
+#applePic {display: none; margin-left: auto; margin-right: auto}
+#p{font-size: 2px;background-color: crimson;}
+button {display: block; margin-left: auto; margin-right: auto;
+        background-color: lightpink; border-radius: 8px;
+        font-size: 20px; font-family: "Comic Sans MS", cursive, sans-serif}
+#change{color: black; text-align: center;}
+#change:hover {color: crimson;}
